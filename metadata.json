@@ -1,0 +1,6 @@
+{
+  "name": "Steffy - Offline Android Assistant & Studio",
+  "description": "Custom offline Android AI assistant with Jetpack Compose UI, offline intent routing, phone calls, SMS, app launching, SAF file management, and Accessibility screen automation.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
